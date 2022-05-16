@@ -17,8 +17,8 @@ umutextstats_endpoint = 'https://umuteam.inf.um.es/umutextstats/api/'
 # @todo. Put your credentials
 # @var login_request_data Object
 login_request_data = {
-    'email': '',
-    'password': ''
+    'email': 'joseantonio.garcia8@um.es',
+    'password': '123nsseaplp!!'
 }
 
 
